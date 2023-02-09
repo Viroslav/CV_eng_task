@@ -11,4 +11,4 @@ works without vpn, I decided to use time outs to not be banned. So it works, I d
 first of all I used padding to get the same size of pictures. Then I used UNET to make a segmentation using the mask. Cut the mask from IMG and then normalized and 
 get the img with applied mask on blue background. 
 
-[https://github.com/Viroslav/CV_eng_task/blob/main/2_task.png](https://raw.githubusercontent.com/Viroslav/CV_eng_task/main/2_task.png)
+![https://github.com/Viroslav/CV_eng_task/blob/main/2_task.png](https://raw.githubusercontent.com/Viroslav/CV_eng_task/main/2_task.png)
