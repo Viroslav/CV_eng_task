@@ -12,3 +12,5 @@ first of all I used padding to get the same size of pictures. Then I used UNET t
 get the img with applied mask on blue background. 
 
 ![https://github.com/Viroslav/CV_eng_task/blob/main/2_task.png](https://raw.githubusercontent.com/Viroslav/CV_eng_task/main/2_task.png)
+
+P.S. more comfortable viewing on Collab https://colab.research.google.com/drive/1ayDus2cbNhRyhYz2Z25EVGJdPV-E3JQj?usp=sharing
